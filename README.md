@@ -1,4 +1,3 @@
-Traderlink-Africa-
 index.html
 style.css
 script.js
