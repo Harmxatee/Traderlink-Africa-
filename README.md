@@ -1,7 +1,9 @@
 Traderlink-Africa-
-│── index.html
-│── style.css
-│── script.js
+index.html
+style.css
+script.js
+assets/
+README.md
 > **Buy. Sell. Connect.**
 > Africa's modern online marketplace — connecting buyers and sellers across every state.
 
